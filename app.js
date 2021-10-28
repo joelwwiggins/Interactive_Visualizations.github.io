@@ -79,11 +79,3 @@ function Metainfo(id){
         });
     });
 }       
-
-funtion guagechart(id){
-    d3.json('data/samples.json').then(function(data){
-
-        var 
-
-    })
-}
